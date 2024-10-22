@@ -10,7 +10,7 @@ heroku3
 motor
 pillow
 psutil
-py-tgcalls==2.0.4
+py-tgcalls==0.9.7
 pykeyboard
 pyrofork
 python-dotenv
@@ -20,6 +20,6 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
-yt-dlp
+yt-dlp==2024.8.6
 youtube-search
 youtube-search-python
